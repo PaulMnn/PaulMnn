@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Paul</h1>
 <h3 align="center">I'm a beginner developer, motivated to take on all challenges 👨‍💻</h3>
 
-- 🔭 I’m currently working on **ZZZ project**
+- 🔭 I’m currently working on **MINDHARBOR project**
 
 - 🌱 I’m currently learning **VueJS, PHP symfony**
 
