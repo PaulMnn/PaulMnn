@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **MINDHARBOR project**
 
-- 🌱 I’m currently learning **VueJS, Ruby on Rails**
+- 🌱 I’m currently learning **VueJS, Ruby on Rails and Python**
 
 - 🤝 I’m looking for help with **my coding skills**
 
